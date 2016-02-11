@@ -38,6 +38,10 @@
   padding-right: 10%;
 }
 
+#form-content {
+  padding: 0 20px;
+}
+
 #access-tab .place-card-image.mdl-card {
   width: 100%;
   background-image: url("../images/place.jpg");
@@ -96,7 +100,6 @@
 
 #profile-tab .mdl-data-table {
   width: 100%;
-  table-layout: fixed;
 }
 
 #profile-tab .mdl-data-table th {
@@ -106,7 +109,7 @@
 }
 
 #profile-tab .mdl-data-table .col-2 {
-  width: 90px;
+  width: 200px;
 }
 
 #profile-tab .mdl-data-table td {
